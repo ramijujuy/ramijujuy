@@ -1,16 +1,18 @@
-### Hi there 👋
+#Hola, Soy  Ramiro Alfaro 👋
+### Full-Stack Developer & systems administrator
 
-<!--
-**ramijujuy/ramijujuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Soy Desarrollador
+
+En 2022 termine el Bootcamp de Henry, adquirí conocimientos en Diferentes tecnologías como Javascript, React, Redux, Node.JS, etc con las cuales puedo desarrollar tanto en el Back como en el Front de diferentes proyectos.
+
+Tambien desde hace 22 años trabajo como Administrador de Sistemas, con sólidos conocimientos en bases de datos, Virtualización de equipos, Servidores y redes.
+
+Responsable, meticuloso y de gran compromiso.
+
+
+
+
+
