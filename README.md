@@ -16,6 +16,7 @@ Responsable, meticuloso y de gran compromiso.
 
 - 💬 Ask me about Html, Css, Javascript, React, Redux.
 - 📫 How to reach me: [Twitter - @ramirojujuy](https://twitter.com/ramirojujuy) , [Linkedin](https://www.linkedin.com/in/ramiro-florencio-alfaro-b31b48152)
+- Mail: ramijujuy@gmail.com
 
 
 
